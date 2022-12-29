@@ -1,10 +1,10 @@
-# meow testing localstack and pytest 
+# meow testing localstack and pytest
 Why localstack?
 
 It can be expensive to test the whole service on AWS platform
 
 
-1. Set up the container 
+1. Set up the container
 
 ```
 docker-compose up
@@ -15,5 +15,3 @@ docker-compose up
 cd simple_lambda
 pytest test_lambda.py
 ```
-
- 
