@@ -1,4 +1,8 @@
-# example of localstack and pytest 
+# meow testing localstack and pytest 
+Why localstack?
+
+It can be expensive to test the whole service on AWS platform
+
 
 1. Set up the container 
 
