@@ -8,7 +8,7 @@ docker-compose up
 
 2. run unit test
 ```
-cd lambda
+cd simple_lambda
 pytest test_lambda.py
 ```
 
